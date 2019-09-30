@@ -149,7 +149,7 @@ class _LoginScreen3State extends State<LoginScreen3>
         image: DecorationImage(
           colorFilter: new ColorFilter.mode(
               Colors.black.withOpacity(0.05), BlendMode.dstATop),
-          image: AssetImage('assets/wel.jpg'),
+          image: AssetImage(''),
           fit: BoxFit.cover,
         ),
       ),
@@ -489,7 +489,7 @@ class _LoginScreen3State extends State<LoginScreen3>
         image: DecorationImage(
           colorFilter: new ColorFilter.mode(
               Colors.black.withOpacity(0.05), BlendMode.dstATop),
-          image: AssetImage('assets/wel.jpg'),
+          image: AssetImage(''),
           fit: BoxFit.cover,
         ),
       ),
@@ -542,11 +542,11 @@ class _LoginScreen3State extends State<LoginScreen3>
                 children: <Widget>[
                   new Expanded(
                     child: TextField(
-                      obscureText: true,
+                      
                       textAlign: TextAlign.left,
                       decoration: InputDecoration(
                         border: InputBorder.none,
-                        hintText: 'jmbastida97@gmail.com',
+                        hintText: '',
                         hintStyle: TextStyle(color: Colors.grey),
                       ),
                     ),
