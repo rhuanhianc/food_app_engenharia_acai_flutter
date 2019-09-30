@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366004479835",
+    "firebase_url": "https://engenhariaacai-51baf.firebaseio.com",
+    "project_id": "engenhariaacai-51baf",
+    "storage_bucket": "engenhariaacai-51baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366004479835:android:c628ec88686856a0d2dc7e",
+        "android_client_info": {
+          "package_name": "com.hianc.acai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366004479835-e1pr877ujlqf1jd4lcel9ato48f95ubg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hianc.acai",
+            "certificate_hash": "28f83ffe4186db112fd08db2d13c091a9e60d187"
+          }
+        },
+        {
+          "client_id": "366004479835-4l7kv0qtc7i013qmn2599ncqh90495ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmSFu3PuVWhrNTX_WeDOftus-12KPVBDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366004479835-4l7kv0qtc7i013qmn2599ncqh90495ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
