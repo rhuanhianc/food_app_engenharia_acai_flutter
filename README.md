@@ -22,8 +22,5 @@ The screenshots below are taken on a android emulator.
 |<img src="screenshots/5.png" width="300">|<img src="screenshots/6.png" width="300">|
 
 
-- Any Operating System (ie. MacOS X, Linux, Windows)
-- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
-- A little knowledge of Dart and Flutter
-- Some fingers to code 
+
  
